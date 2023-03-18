@@ -1,0 +1,30 @@
+h1{
+    font-size: 50px;
+    font-weight:bolder;
+    color:rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Oswald',Lighter;
+}
+.container{
+    text-align: center;
+    padding-top: 50px;
+}
+.div-1{
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Oswald',Lighter;
+    font-size: 15px;
+    font-weight:bolder;
+    color:rgb(40, 39, 39);
+}
+body{
+    background-color: rgba(255, 192, 203, 0.485);
+   
+}
+label{
+    text-align: center;
+}
+.poze{
+    
+    border-radius: 50%;
+}
